@@ -22,6 +22,5 @@ node_modules/
 
 # Sensitive files
 connect.php
-
-# Uploads (store in cloud storage instead)
+.htaccess
 uploads/
