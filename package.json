@@ -1,0 +1,15 @@
+{
+  "name": "faq-client",
+  "version": "1.0.0",
+  "description": "FAQ Client - Public FAQ Interface",
+  "main": "api/app/index.php",
+  "scripts": {
+    "build": "echo 'Building client app'"
+  },
+  "keywords": ["faq", "client", "faq-ui"],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": "18.x"
+  }
+}
